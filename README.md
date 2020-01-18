@@ -1,4 +1,4 @@
-# Decision Maker (npm Version)
+# Decision Maker 
 
 This app makes a decision and displays it, choosing one from a predefined list
 
