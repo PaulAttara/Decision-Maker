@@ -16,12 +16,11 @@ Install npm packages:
 npm install
 ```
 
-Start working: (in 2 separate terminals)
+Start working: 
 
 ```
 npm run build
 npm run dev-server
-npm run serve
 ```
 
 
