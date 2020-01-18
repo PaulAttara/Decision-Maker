@@ -7,7 +7,7 @@ This app makes a decision and displays it, choosing one from a predefined list
 Clone this repository:
 
 ```
-git clone https://github.com/PaulAttara/Decision-Maker.git```
+git clone https://github.com/PaulAttara/Decision-Maker.git
 ```
 
 Install npm packages:
