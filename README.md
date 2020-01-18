@@ -10,6 +10,7 @@ Clone this repository:
 
 ```
 git clone https://github.com/PaulAttara/Decision-Maker.git```
+```
 
 Install npm packages:
 
@@ -21,7 +22,11 @@ Start working: (in 2 separate terminals)
 
 ```
 npm run build
+```
+```
 npm run dev-server
+```
+```
 npm run serve
 ```
 
